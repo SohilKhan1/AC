@@ -15,7 +15,8 @@ public class CheckithBit {
 		}else {
 			System.out.println("Unset");
 		}
-				
+		
+		
 	}
 
 }
